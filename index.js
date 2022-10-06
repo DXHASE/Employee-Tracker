@@ -30,4 +30,7 @@ function firstQuestion() {
         "Quit"
     ]
     })
+    
+}
+function viewDepartments(){
 }
